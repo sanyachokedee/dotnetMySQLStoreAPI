@@ -1,0 +1,15 @@
+.swagger-ui .topbar {
+    background: #61affe !important;
+}
+.swagger-ui .topbar .download-url-wrapper {
+    /* display: none !important; */
+}
+
+.swagger-ui .info .title small.version-stamp{
+    display: none !important;
+}
+
+.swagger-ui img {
+    content: url('logo.png');
+    height: 40px; /* height of your logo */
+}
